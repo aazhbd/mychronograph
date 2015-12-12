@@ -1,0 +1,2 @@
+# mychronograph
+A stopwatch program
